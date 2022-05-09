@@ -1,0 +1,12 @@
+{
+  "name": "clarity",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "comp": "sass --watch src/styles/main2.scss src/styles/main2.css",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
